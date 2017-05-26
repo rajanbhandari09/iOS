@@ -1,7 +1,7 @@
-#Project 1#
+# Project 1
 The project demonstrates a basic application developed in Swift with iOS as target platform. The application takes as input 2 dates from the user, computes and returns number of days between the dates to the user. The application perfroms all validations on the user input, including leap year and incorrect dates.
 
-###Guidelines on how to use the App:###
+### Guidelines on how to use the App:
 1. User needs to enter Date 1 (DD,MM,YYYY) values in 3 text fields provided for Date 1
 2. User needs to enter Date 2 (DD,MM,YYYY) values in 3 text fields provided for Date 2
 3. On clicking ‘Calculate’ Button, application will first perform validations to check below:
